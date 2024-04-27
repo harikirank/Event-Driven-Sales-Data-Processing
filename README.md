@@ -14,7 +14,7 @@
 ![Architecture Diagram](./Architecture_Diagram/Architecture_Diagram_Event_Driven_Sales_Data_Processing_using_AWS_Step_Functions.png?raw=true)
 
 # AWS Step Function Diagram
-![AWS Step Function Diagram](./Images_Watermarked/19 Final State Machine of Step function.png?raw=true)
+![AWS Step Function Diagram](./Images_Watermarked/19%20Final%20State%20Machine%20of%20Step%20function.png?raw=true)
 
 # Architecture Diagram Steps
 1. Clients upload files or data to Amazon Simple Storage Service (S3).
